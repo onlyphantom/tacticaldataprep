@@ -15,6 +15,6 @@ Tactical data science zooms in on the mental models behind common data preparati
 All example code are provided in R and Python, but only basic familiarity in both language is assumed. 
 
 ## Badge of Completion
-To earn a badge of completion, [attempt the quizzes](https://corgi.re/onlyphantom/tacticaldataprep) on https://corgi.re. [Corgi](https://corgi.re) is an aggregation tool for **co**u**r**ses on **gi**thub (hence the name) with a primary focus on data science and computer programming. 
+To earn a badge of completion, [attempt the quizzes](https://corgi.re/courses/onlyphantom/tacticaldataprep) on https://corgi.re. [Corgi](https://corgi.re) is an aggregation tool for **co**u**r**ses on **gi**thub (hence the name) with a primary focus on data science and computer programming. 
 
-Link to earn a badge: [Tactical Data Preparation | Corgi](https://corgi.re/onlyphantom/tacticaldataprep)
+Link to earn a badge: [Tactical Data Preparation | Corgi](https://corgi.re/courses/onlyphantom/tacticaldataprep)
