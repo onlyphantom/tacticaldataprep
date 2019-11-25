@@ -10,7 +10,7 @@ Tactical data science zooms in on the mental models behind common data preparati
 3. **Diagnostic questions** are sanity checks. They asks: "does the state of data conform to my expectations and statistical reality?"  
 4. **Exploratory questions** are concerned with pattern discovery. They asks: "how can the information in the data be applied?"  
 5. Incorporate **prior knowledge** and **domain knowledge** in your data preparation tasks  
-6. Semantically equivalence != Logical equivalence 
+6. Syntactic equivalence != Logical equivalence 
 
 All example code are provided in R and Python, but only basic familiarity in both language is assumed. 
 
