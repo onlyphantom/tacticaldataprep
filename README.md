@@ -9,10 +9,21 @@ Tactical data science zooms in on the mental models behind common data preparati
 2. **Isolate contexts** by diagnosing your data before exploring it  
 3. **Diagnostic questions** are sanity checks. They asks: "does the state of data conform to my expectations and statistical reality?"  
 4. **Exploratory questions** are concerned with pattern discovery. They asks: "how can the information in the data be applied?"  
-5. Incorporate **prior knowkedge** and **domain knowledge** in your data preparation tasks  
-6. Preserve an **unmodified copy of the data** and understand that **every language behave differently** and yield different results even if they look semantically similar   
+5. Incorporate **prior knowledge** and **domain knowledge** in your data preparation tasks  
+6. Semantically equivalence != Logical equivalence 
 
 All example code are provided in R and Python, but only basic familiarity in both language is assumed. 
+
+## Workshops
+### Jakarta
+- Date: 27 November 2019  
+- Venue: Gedung Pusat Perfilman Usmar Ismail, Jl. H.R Rasuna Said  
+- Delivery: English  
+
+### Bali
+- Date: 13 December 2019  
+- Venue: Kembali Innovation Hub, Kuta  
+- Delivery: English
 
 ## Badge of Completion
 To earn a badge of completion, [attempt the quizzes](https://corgi.re/courses/onlyphantom/tacticaldataprep) on https://corgi.re. [Corgi](https://corgi.re) is an aggregation tool for **co**u**r**ses on **gi**thub (hence the name) with a primary focus on data science and computer programming. 
